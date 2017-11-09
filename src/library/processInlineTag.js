@@ -1,7 +1,7 @@
 const inlineTags = {
   code: 'CODE',
   del: 'STRIKETHROUGH',
-  em: 'ITALIC',
+  i: 'ITALIC',
   b: 'BOLD',
   ins: 'UNDERLINE',
   sub: 'SUBSCRIPT',

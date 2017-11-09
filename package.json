@@ -1,6 +1,6 @@
 {
   "name": "html-to-draftjs-with-settings",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/html-to-draftjs.js",
   "repository": {
     "type": "git",
